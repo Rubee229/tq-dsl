@@ -63,15 +63,15 @@ You are invited to contribute by:
 
 ## Table of Contents
 
-- [What is TQ-DSL](#1-what-is-tq-dsl)
-- [Language Objectives](#2-language-objectives)
-- [Syntax Structure Overview](#3-syntax-structure-overview)
-- [Sample Snippet (TQ-DSL in Use)](#4-sample-snippet-tq-dsl-in-use)
-- [AI Features Enabled by TQ-DSL](#5-ai-features-enabled-by-tq-dsl)
-- [For Developers: Parsing TQ-DSL for AI Systems](#6-for-developers-parsing-tq-dsl-for-ai-systems)
-- [Open Source & Community Principles](#7-open-source--community-principles)
-- [Future Extensions (v10)](#8-future-extensions-v10)
-- [Invitation to Join](#9-invitation-to-join)
+- [1. What is TQ-DSL?](#1-what-is-tq-dsl)
+- [2. Language Objectives](#2-language-objectives)
+- [3. Syntax Structure Overview](#3-syntax-structure-overview)
+- [4. Sample Snippet (TQ-DSL in Use)](#4-sample-snippet-tq-dsl-in-use)
+- [5. AI Features Enabled by TQ-DSL](#5-ai-features-enabled-by-tq-dsl)
+- [6. For Developers: Parsing TQ-DSL for AI Systems](#6-for-developers-parsing-tq-dsl-for-ai-systems)
+- [7. Open Source & Community Principles](#7-open-source--community-principles)
+- [8. Future Extensions (v1.0+)](#8-future-extensions-v10)
+- [9. Invitation to Join](#9-invitation-to-join)
 
 ⸻
 

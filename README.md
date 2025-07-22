@@ -158,12 +158,12 @@ golden rule in exam: Time is limited. Do not aim to read every sentence in full.
 ## 5. AI Features Enabled by TQ-DSL
 
 TQ-DSL syntax enables AI systems to automatically:
-A.Generate lesson plans based on /step structure
-B.Create sentence pattern replacement tasks from chunk*angle
-C.Produce leveled task cards using #level.high/mid/low
-D.Extract strategic notes using @decode and golden rule
-E.Suggest pronunciation/spelling practices using >rephrase + chunk
-F.Facilitate dialog-based tutoring via structured strategy instruction
+- A. Generate lesson plans based on /step structure
+- B. Create sentence pattern replacement tasks from chunk*angle
+- C. Produce leveled task cards using #level.high/mid/low
+- D. Extract strategic notes using @decode and golden rule
+- E. Suggest pronunciation/spelling practices using >rephrase + chunk
+- F. Facilitate dialog-based tutoring via structured strategy instruction
 
 🔝 [↑ Back to Table of Contents](#table-of-contents)
 
@@ -225,20 +225,20 @@ Community Contributions Encouraged: Syntax expansions, translations, tooling sup
 🔝 [↑ Back to Table of Contents](#table-of-contents)
 
 ## 8. Future Extensions (v10)
-a.Syntax Expansion: Add logic support for math, science, reading literacy, and other subjects.
-b.TQ-AI Integration: Build a parsing engine or fine-tuned GPT tutor for TQ structure.
-c.Material Conversion Tool: Translate traditional teaching materials into TQ-DSL annotated structure.
-d.Interactive Learning Platform: Let students use TQ-DSL for task prompts, reflection, self-assessment, and peer review.
-e.Lesson Version Control: Support versioning and iteration tracking of DSL-based teaching sequences and post-class analysis.
+- a. Syntax Expansion: Add logic support for math, science, reading literacy, and other subjects.
+- b. TQ-AI Integration: Build a parsing engine or fine-tuned GPT tutor for TQ structure.
+- c. Material Conversion Tool: Translate traditional teaching materials into TQ-DSL annotated structure.
+- d. Interactive Learning Platform: Let students use TQ-DSL for task prompts, reflection, self-assessment, and peer review.
+- e. Lesson Version Control: Support versioning and iteration tracking of DSL-based teaching sequences and post-class analysis.
 
 🔝 [↑ Back to Table of Contents](#table-of-contents)
 
 ## 9. Invitation to Join
 If you are:
-A teacher or educator
-An AI tool designer or developer
-A curriculum designer
-A linguist or education researcher
+- A teacher or educator
+- An AI tool designer or developer
+- A curriculum designer
+- A linguist or education researcher
 
 We warmly invite you to collaborate, test, propose syntax extensions, share usage cases, and co-create the world’s first AI teaching language centered on teachers × learners.
 

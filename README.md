@@ -51,17 +51,28 @@ TQ-DSL uses a standardized syntax format:
 [prefix][semantic_type]*[subtag]: content sentence
 
 For example:
-/step 1: Identify paragraph structure
-@decodecoherence: Observe contrast transitions like “however”
-chunkangle: think twice → 再三考慮
+/step 1: Identify paragraph structure  
+@decode*coherence: Observe contrast transitions like “however”  
+chunk*angle: think twice → 再三考慮
+
 You can define your own subtag types to suit different subject domains.  
 For instance, teachers might use:
 
-@decodeinference
-@decodestructure
-@decode*evidence
+- `@decode*inference`  
+- `@decode*structure`  
+- `@decode*evidence`
 
 This makes TQ-DSL extensible across disciplines such as English reading, science inquiry, or math problem solving.
+
+### chunk*subtype
+
+Used to mark teachable language units, such as phrasal verbs, idioms, grammar formulas, or domain-specific terms.  
+These markers help AI recognize reusable instructional targets for transformation, practice generation, or learner feedback.
+
+Examples:
+chunk*phrasalverb: give up → 放棄  
+chunk*grammar: It is + adj + that + S + V → 強調句型  
+chunk*science: evaporation → 蒸發
 
 ## 4.Sample Snippet (TQ-DSL in Use)
 @meta: English Reading Structure Task – National Exam Context

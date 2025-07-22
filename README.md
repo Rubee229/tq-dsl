@@ -4,6 +4,15 @@ A domain-specific markup language for teachers to semantically tag teaching stra
 # TQ-DSL – Teaching Quotient Domain-Specific Language(open educational syntax language)
 *A syntax system for co-learning among educators × AI × learners*
 
+TQ-DSL is a domain-specific syntax language designed for teachers and AI systems to co-annotate educational content.
+
+It is suitable for:
+- **Educators** who want to design structured, AI-readable lesson strategies
+- **Developers** interested in building tools, parsers, or platforms for co-learning
+- **Curriculum designers** exploring multi-layered instruction logic and student-level tagging
+
+This project is open for contributions from both education and AI communities.
+
 ## Table of Contents
 
 1. [What is TQ-DSL?](#1-what-is-tq-dsl)

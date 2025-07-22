@@ -12,6 +12,7 @@ TQ-DSL is a domain-specific language designed to help teachers annotate instruct
 - [What is TQ-DSL](#custom-tq-dsl)
 - [What is Toneovial Intelligence](#custom-toneovial-intelligence)
 - [Who Is This For](#custom-who-is-this-for)
+- [Who Instantly Understands TQ-DSL](#custom-understands-tq-dsl)
 - [Contribution](#custom-contribution)
 
 ---
@@ -50,6 +51,19 @@ TQ-DSL operationalizes this vision by offering a syntax layer that AI systems ca
 - **Curriculum designers** exploring multi-layer instruction and student-level adaptation  
 - **Researchers** investigating semantic teaching frameworks and machine-parsable pedagogy
 
+<a name="custom-understands-tq-dsl"></a>
+## Who Instantly Understands TQ-DSL
+
+TQ-DSL is immediately intuitive for people who already think in terms of structure, logic, or modular instruction. This includes:
+- **Strategic Teachers** — familiar with scaffolding, leveled instruction, and task breakdowns
+- **Curriculum Designers** — used to mapping pedagogy into steps and objectives
+- **Cognitive Scientists** — focused on reasoning, metacognition, and thinking processes
+- **EdTech Developers** — building structured learning tools, platforms, or AI tutors
+- **Prompt Engineers** — designing reusable educational prompt formats
+- **Markdown / DSL Users** — comfortable with syntax, tags, and content markup
+- **Human–AI Co-Teachers** — exploring new ways to teach collaboratively with AI
+
+If you think in terms of strategy + sequence + structure, you’ll likely “get” TQ-DSL instantly.
 <a name="custom-contribution"></a>
 ## Contribution
 

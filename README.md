@@ -1,10 +1,10 @@
 # tq-dsl
 A domain-specific markup language for teachers to semantically tag teaching strategies, learning steps, and student levels—AI-readable, human-writable. 
 
-# 🌐 TQ-DSL – Teaching Quotient Domain-Specific Language(open educational syntax language)
+# TQ-DSL – Teaching Quotient Domain-Specific Language(open educational syntax language)
 *A syntax system for co-learning among educators × AI × learners*
 
-## 📚 Table of Contents
+##Table of Contents
 
 1. [What is TQ-DSL?](#1-what-is-tq-dsl)
 2. [Language Objectives](#2-language-objectives)
@@ -18,14 +18,14 @@ A domain-specific markup language for teachers to semantically tag teaching stra
 
 ⸻
 
-##1.What is TQ-DSL?
+## 1.What is TQ-DSL?
 
 TQ-DSL is an open syntax language designed for AI-assisted teaching systems and strategy-driven educators.
 It enables teachers to annotate instructional materials using a code-like structure, marking teaching steps, reasoning strategies, learner grouping, language deconstruction, and learning reminders in a way that is readable, collaborative, and interactive for AI.
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##2.Language Objectives
+## 2.Language Objectives
 
 | Item          | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
@@ -34,16 +34,16 @@ It enables teachers to annotate instructional materials using a code-like struct
 | Executability | Enables AI to transform syntax into lesson plans, vocabulary lists, task cards, and interactive activities. |
 | Extensibility | Supports user-defined semantic tags for adaptation across subjects and levels. |
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##3.Syntax Structure Overview
+## 3.Syntax Structure Overview
 
 ### 🧱 Basic Syntax Format (Prefix + Type + Subtag)
 
 ```tq
 [prefix][semantic_type]*[subtag]: content sentence
 
-##4. Sample Snippet (TQ-DSL in Use)
+## 4.Sample Snippet (TQ-DSL in Use)
 @meta: English Reading Structure Task – National Exam Context
 
 /step 1: Begin by counting the number of paragraphs. Predict the structure (e.g., Introduction-Development-Turn-Conclusion or Point 1-2-3-Contradiction).
@@ -60,9 +60,9 @@ golden rule in exam: Time is limited. Do not aim to read every sentence in full.
 
 @remind^sign: The second-to-last sentence often contains contrast or additional information.
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##5.AI Features Enabled by TQ-DSL
+## 5.AI Features Enabled by TQ-DSL
 
 TQ-DSL syntax enables AI systems to automatically:
 📄 Generate lesson plans based on /step structure
@@ -72,9 +72,9 @@ TQ-DSL syntax enables AI systems to automatically:
 🗣️ Suggest pronunciation/spelling practices using >rephrase + chunk
 🤖 Facilitate dialog-based tutoring via structured strategy instruction
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##6. For Developers: Parsing TQ-DSL for AI Systems
+## 6.For Developers: Parsing TQ-DSL for AI Systems
 
 TQ-DSL is a line-based, semantically-tagged instructional language. It uses a prefix + type + subtype format for every tag.
 
@@ -120,27 +120,27 @@ c.Easily tokenizable and structure-extractable
 
 Parser reference implementations will be available in Python and JavaScript.
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##7.Open Source & Community Principles
+## 7.Open Source & Community Principles
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
 
 You are free to use, modify, and share this teaching syntax with attribution and share-alike terms.
 
 Community Contributions Encouraged: Syntax expansions, translations, tooling support, integrations, and classroom examples are welcome.
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##8. Future Extensions (v1.0+)
+## 8.Future Extensions (v1.0+)
 a.Syntax Expansion: Add logic support for math, science, reading literacy, and other subjects.
 b.TQ-AI Integration: Build a parsing engine or fine-tuned GPT tutor for TQ structure.
 c.Material Conversion Tool: Translate traditional teaching materials into TQ-DSL annotated structure.
 d.Interactive Learning Platform: Let students use TQ-DSL for task prompts, reflection, self-assessment, and peer review.
 e.Lesson Version Control: Support versioning and iteration tracking of DSL-based teaching sequences and post-class analysis.
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)
 
-##9. Invitation to Join
+## 9.Invitation to Join
 If you are:
 A teacher or educator
 An AI tool designer or developer
@@ -149,4 +149,4 @@ A linguist or education researcher
 
 We warmly invite you to collaborate, test, propose syntax extensions, share usage cases, and co-create the world’s first AI teaching language centered on teachers × learners.
 
-🔝 [↑ Back to Table of Contents](#📚-table-of-contents)
+🔝 [↑ Back to Table of Contents](#table-of-contents)

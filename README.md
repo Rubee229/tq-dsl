@@ -1,4 +1,22 @@
-# TQ-DSL  
+# Toneovial Intelligence × TQ-DSL  
+*A Human-AI Semantic Language Framework for Education*
+
+This project introduces **Toneovial Intelligence™** — a cognitive framework for learning through tone, structure, and reasoning — and its operational syntax layer: **TQ-DSL** (Teaching Quotient Domain-Specific Language).
+
+TQ-DSL is a domain-specific language designed to help teachers annotate instructional logic in a machine-readable way, enabling co-learning experiences between educators, learners, and AI.
+
+---
+
+## Table of Contents
+
+- [What is TQ-DSL](#what-is-tq-dsl)
+- [What is Toneovial Intelligence](#what-is-toneovial-intelligence)
+- [Who Is This For](#who-is-this-for)
+- [Contribution](#contribution)
+
+---
+
+## What is TQ-DSL  
 *A Domain-Specific Language for Teaching Strategy Markup – Human-Writable, AI-Readable*
 
 **TQ-DSL (Teaching Quotient Domain-Specific Language)** is an open syntax system designed for co-learning between educators, learners, and AI.
@@ -10,7 +28,7 @@ TQ-DSL forms a semantic bridge that connects:
 
 ---
 
-## What is Toneovial Intelligence™
+## What is Toneovial Intelligence
 
 **Toneovial Intelligence™** is the conceptual foundation behind TQ-DSL.  
 It is a human-centered cognitive framework that treats tone and structure not as decorative features, but as scaffolds for reasoning, reflection, and dialogue.
@@ -20,30 +38,28 @@ It aims to externalize *how we think* — not just *what we know* — by combini
 - Language and discourse analysis  
 - AI-mediated interaction  
 
-Through submodules like **Toneovial Math™**, this framework helps learners articulate their reasoning process — even through mistakes — turning error into structured insight and learning potential.
+Through submodules like **Toneovial Math™**, learners are encouraged to verbalize their thinking process — even when making mistakes — turning error into structured understanding.
 
-**TQ-DSL** is the syntax layer that operationalizes this framework into practical teaching design and AI interaction.
+TQ-DSL operationalizes this vision by offering a syntax layer that AI systems can read, interpret, and respond to.
 
----
 
-## Who Is This For?
+## Who Is This For
 
-- Educators designing structured, strategy-based lessons enhanced by AI  
-- Developers building co-learning tools, DSL parsers, or AI tutors  
-- Curriculum designers exploring multi-layer instruction and student-level adaptation  
-- Researchers investigating semantic teaching frameworks and machine-parsable pedagogy
+- **Educators** designing structured, strategy-based lessons enhanced by AI  
+- **Developers** building co-learning tools, DSL parsers, or AI tutors  
+- **Curriculum designers** exploring multi-layer instruction and student-level adaptation  
+- **Researchers** investigating semantic teaching frameworks and machine-parsable pedagogy
 
----
 
 ## Contribution
 
 This project welcomes collaborators from both education and AI communities.  
 You are invited to contribute by:
-
 - Proposing new syntax rules and use cases  
 - Sharing classroom implementations  
 - Developing tools that support or parse TQ-DSL  
 - Helping shape the future of human–AI co-learning
+
 
 ## Table of Contents
 

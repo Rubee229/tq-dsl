@@ -38,10 +38,21 @@ It enables teachers to annotate instructional materials using a code-like struct
 
 ## 3.Syntax Structure Overview
 
-### 🧱 Basic Syntax Format (Prefix + Type + Subtag)
-
-```tq
+TQ-DSL uses a standardized syntax format:
 [prefix][semantic_type]*[subtag]: content sentence
+
+For example:
+/step 1: Identify paragraph structure
+@decodecoherence: Observe contrast transitions like “however”
+chunkangle: think twice → 再三考慮
+You can define your own subtag types to suit different subject domains.  
+For instance, teachers might use:
+
+@decodeinference
+@decodestructure
+@decode*evidence
+
+This makes TQ-DSL extensible across disciplines such as English reading, science inquiry, or math problem solving.
 
 ## 4.Sample Snippet (TQ-DSL in Use)
 @meta: English Reading Structure Task – National Exam Context
@@ -65,12 +76,12 @@ golden rule in exam: Time is limited. Do not aim to read every sentence in full.
 ## 5.AI Features Enabled by TQ-DSL
 
 TQ-DSL syntax enables AI systems to automatically:
-📄 Generate lesson plans based on /step structure
-🧩 Create sentence pattern replacement tasks from chunk*angle
-📈 Produce leveled task cards using #level.high/mid/low
-🧠 Extract strategic notes using @decode and golden rule
-🗣️ Suggest pronunciation/spelling practices using >rephrase + chunk
-🤖 Facilitate dialog-based tutoring via structured strategy instruction
+A.Generate lesson plans based on /step structure
+B.Create sentence pattern replacement tasks from chunk*angle
+C.Produce leveled task cards using #level.high/mid/low
+D.Extract strategic notes using @decode and golden rule
+E.Suggest pronunciation/spelling practices using >rephrase + chunk
+F.Facilitate dialog-based tutoring via structured strategy instruction
 
 🔝 [↑ Back to Table of Contents](#table-of-contents)
 

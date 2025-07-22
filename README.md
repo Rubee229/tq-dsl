@@ -7,7 +7,7 @@ TQ-DSL is a domain-specific language designed to help teachers annotate instruct
 
 ---
 
-## Table of Contents
+## Table of Contents(plus)
 
 - [What is TQ-DSL](#custom-tq-dsl)
 - [What is Toneovial Intelligence](#custom-toneovial-intelligence)
